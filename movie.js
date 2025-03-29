@@ -1,6 +1,6 @@
 async function rishi() {
   const title = document.getElementById('ss').value.trim();
-  const apiKey = '6c51a2db';
+  const apiKey = 'your_key';
   const movieInfo = document.getElementById('movie-info');
 
   if (!title) {
